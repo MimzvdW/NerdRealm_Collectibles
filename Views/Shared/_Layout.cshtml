@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NerdRealm Collectibles</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/NerdRealm_Collectibles.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-secondary p-3 border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/Images/Logo.png" alt="Logo" id="Logo" style="width: 14vw; height: 17vh; padding:0; margin-left:4%" /> 
+                    <img src="~/Images/Name.png" alt="Company Name" style="width: 35vw; height: 15vh; padding-right:5%;padding-left:4%;" /></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index" onMouseOver="this.style.color='#c8ccd0'" onMouseOut="this.style.color='white'" style=" font-size:18px; color:white;">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Location" onMouseOver="this.style.color='#c8ccd0'" onMouseOut="this.style.color='white'" style=" font-size:18px; color:white";>Locations</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Favorites" onMouseOver="this.style.color='#c8ccd0'" onMouseOut="this.style.color='white'" style=" font-size:18px; color:white";>Favorites</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="AboutUs" onMouseOver="this.style.color='#c8ccd0'" onMouseOut="this.style.color='white'" style=" font-size:18px; color:white";>About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.dc.com/comics" target="_blank" onMouseOver="this.style.color='#c8ccd0'" onMouseOut="this.style.color='white'" style=" font-size:18px; color:white";>Latest News</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+</body>
+<footer class="border-top footer text-muted" style="background-color: #53595f; padding:16px">
+    <div class="container" style="color: white">
+        &copy; 2023 - NerdRealm_Collectibles - Michelle van der Westhuizen 20220691 Software Development
+    </div>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</html>

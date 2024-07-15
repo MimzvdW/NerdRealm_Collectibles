@@ -1,0 +1,31 @@
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\bin\Release\net6.0\appsettings.Development.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\bin\Release\net6.0\appsettings.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\bin\Release\net6.0\NerdRealm Collectibles.staticwebassets.runtime.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\bin\Release\net6.0\NerdRealm Collectibles.exe
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\bin\Release\net6.0\NerdRealm Collectibles.deps.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\bin\Release\net6.0\NerdRealm Collectibles.runtimeconfig.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\bin\Release\net6.0\NerdRealm Collectibles.dll
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\bin\Release\net6.0\NerdRealm Collectibles.pdb
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.csproj.AssemblyReference.cache
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.AssemblyInfo.cs
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.RazorAssemblyInfo.cache
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.RazorAssemblyInfo.cs
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\staticwebassets\msbuild.NerdRealm Collectibles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\staticwebassets\msbuild.build.NerdRealm Collectibles.props
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.NerdRealm Collectibles.props
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.NerdRealm Collectibles.props
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\scopedcss\bundle\NerdRealm Collectibles.styles.css
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\scopedcss\projectbundle\NerdRealm Collectibles.bundle.scp.css
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.dll
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\refint\NerdRealm Collectibles.dll
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.pdb
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\NerdRealm Collectibles.genruntimeconfig.cache
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\ref\NerdRealm Collectibles.dll

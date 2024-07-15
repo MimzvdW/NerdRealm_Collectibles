@@ -1,0 +1,7 @@
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\PubTmp\Out\NerdRealm Collectibles.exe
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\PubTmp\Out\NerdRealm Collectibles.dll
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\PubTmp\Out\NerdRealm Collectibles.deps.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\PubTmp\Out\NerdRealm Collectibles.runtimeconfig.json
+C:\Users\steph\source\repos\NerdRealm Collectibles\NerdRealm Collectibles\obj\Release\net6.0\PubTmp\Out\NerdRealm Collectibles.pdb
